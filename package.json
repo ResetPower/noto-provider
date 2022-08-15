@@ -1,0 +1,16 @@
+{
+  "name": "noto-provider",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ResetPower/noto-provider.git"
+  },
+  "author": "ResetPower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ResetPower/noto-provider/issues"
+  },
+  "homepage": "https://github.com/ResetPower/noto-provider#readme"
+}
