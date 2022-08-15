@@ -1,4 +1,4 @@
-// Noto Sans SC
+/* Noto Sans SC */
 @font-face {
   font-family: Noto Sans SC;
   font-weight: 100;
@@ -29,7 +29,7 @@
   font-weight: 900;
   src: url("Noto_Sans_SC/NotoSansSC-Black.otf")
 }
-// Noto Sans JP
+/* Noto Sans JP */
 @font-face {
   font-family: Noto Sans JP;
   font-weight: 100;
